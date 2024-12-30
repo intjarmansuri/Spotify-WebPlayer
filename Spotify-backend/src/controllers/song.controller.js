@@ -1,7 +1,7 @@
 import { uploadOnCloudinary } from "../config/cloudinary.js";
 import { Song } from "../models/song.model.js";
 import { ApiError } from "../utils/ApiError.js";
-import { ApiResponse } from "../utils/apiResponse.js";
+import { ApiResponse } from "../utils/ApiResponse.js";
 import { asyncHandler } from "../utils/asyncHandler.js";
 
 const addSong = asyncHandler(async (req, res) => {
