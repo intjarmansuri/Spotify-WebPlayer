@@ -1,7 +1,7 @@
 import { uploadOnCloudinary } from "../config/cloudinary.js";
 import { Album } from "../models/album.model.js";
 import { ApiError } from "../utils/ApiError.js";
-import { ApiResponse } from "../utils/apiResponse.js";
+import { ApiResponse } from "../utils/ApiResponse.js";
 import { asyncHandler } from "../utils/asyncHandler.js";
 
 const createAlbum = asyncHandler(async (req, res) => {
