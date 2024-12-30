@@ -31,17 +31,15 @@ Additionally, the **Admin Panel** allows admins to:
 
 ### Spotify Home Page
 
-![Screenshot (318)](https://github.com/user-attachments/assets/0d92ec5d-2a79-4625-b503-6ab1663d2912)
-
-![Screenshot (320)](https://github.com/user-attachments/assets/08323b09-c4ab-4d5f-ad3b-d65f047d16fd)
+![Screenshot (318)](https://github.com/user-attachments/assets/201f6593-51a9-441d-8562-e849c455e951)
+![Screenshot (320)](https://github.com/user-attachments/assets/88211f1c-8287-44f8-937a-df1507011006)
 
 ### Albums Page
-
-![Screenshot (319)](https://github.com/user-attachments/assets/b18716d9-e4ba-43ee-a546-01216e7195c5)
+![Screenshot (319)](https://github.com/user-attachments/assets/0b5f88c6-663c-44cd-af58-d318f54f3f65)
 
 ### Admin Panel Page
 
-![Screenshot (321)](https://github.com/user-attachments/assets/a1d3fc32-4c72-438a-b958-b5aed6c3b50b)
+![Screenshot (321)](https://github.com/user-attachments/assets/d55088a6-12ba-4833-b3e9-6afc7a23d1b3)
 
 ## Features
 
